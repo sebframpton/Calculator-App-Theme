@@ -49,6 +49,6 @@ Users should be able to:
 ## Author
 
 - Website - [Seb Frampton](https://sebframpton.github.io/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@sebframpton](https://www.frontendmentor.io/profile/sebframpton)
 
 
